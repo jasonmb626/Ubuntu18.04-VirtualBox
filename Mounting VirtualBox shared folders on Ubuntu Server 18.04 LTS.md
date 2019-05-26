@@ -67,7 +67,7 @@ vboxsf
 ```
 5. Reboot the vm and log-in again
 ```
-shutdown -r now
+sudo shutdown -r now
 ```
 6. Go to your home directory and check to see if the file is highlighted in green. 
 ```
