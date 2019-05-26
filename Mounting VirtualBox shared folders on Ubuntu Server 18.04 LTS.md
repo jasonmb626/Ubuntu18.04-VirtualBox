@@ -47,7 +47,7 @@ sudo mount -t vboxsf shared ~/shared
 cd ~/shared
 ```
 ## Make the mount folder persistent
-This directory mount we just made is temporary and it will disappear on next reboot. To make this permanent, we'll set it so that it will mount our `~/shared` directory on system startup
+This directory mount we just made is temporary and it will disappear on next reboot. To make this permanent, we'll set it so that it will mount our `~/shared` directory on system startup. UPDATE: I tried these steps and upon reboot the server went into emergency mode. Something is not right.
 
 1. Edit fstab file in /etc directory
 ```
