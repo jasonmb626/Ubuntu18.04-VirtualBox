@@ -1,6 +1,6 @@
-(Adapted from https://gist.github.com/estorgio/1d679f962e8209f8a9232f7593683265)
-
 # Mounting VirtualBox shared folders on Ubuntu Server 18.04 LTS
+
+(Adapted from https://gist.github.com/estorgio/1d679f962e8209f8a9232f7593683265)
 
 This guide will walk you through steps on how to setup a VirtualBox shared folder inside your Ubuntu Server guest. Tested on Ubuntu Server 18.04.2 LTS (Bionic Beaver)
 
